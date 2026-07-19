@@ -1,2 +1,2 @@
-# Apex One Step 3
-Adds an Enter Floor button and a first-person interior walkthrough.
+# Apex One Step 4
+Luxury interior upgrade with marble grid, timber feature wall, glass meeting room, ceiling details, warm lighting and a mobile joystick.
